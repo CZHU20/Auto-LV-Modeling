@@ -14,7 +14,8 @@ The code repository consists of two parts
 * Segmentation 
     * Tensorflow (V 1.12)
     * Python
-    * SimpleITK
+    * SimpleITK (V 1.2.4)
+    * h5py (V 2.10.0)
 * Model Generation
     * Python
     * VTK
